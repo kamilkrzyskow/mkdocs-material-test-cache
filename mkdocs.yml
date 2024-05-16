@@ -1,4 +1,5 @@
 site_name: My Docs
+site_description: Global description
 theme:
   name: material
 plugins:
